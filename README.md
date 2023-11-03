@@ -19,6 +19,13 @@ Dharmarajacollege.lk	q5w1r9t2y3u0i7o.com
 | Courseweb.sliit.lk         | z0x5c9v3b1n2m8q.com                                |
 | Dharmarajacollege.lk       | q5w1r9t2y3u0i7o.com                                |
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
  
 ## Background
 
